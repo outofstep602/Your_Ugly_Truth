@@ -1,0 +1,77 @@
+* {box-sizing: border-box}
+
+#reg-con {
+  padding:5%;
+  width:30%;
+  background-color:#7fffd478;
+  height:40%;
+  margin-left: 35%;
+  
+}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+hr {
+  border: 2px solid purple;
+  margin-bottom: 25px;
+}
+.registerbtn {
+  background-color: rgb(95, 33, 119);
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+  opacity:1;
+}
+
+a {
+  font-size: 15pt;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px wheat;
+}
+
+/* .signin {
+  color:rgb(102, 43, 102);
+  text-align: center;
+ 
+} */
+#bg-img{
+  background-image:url('../../assets/images/santasucks2.png');
+  background-repeat: repeat;
+  background-size:cover;
+}
+#info-reg{
+  color:rgb(102, 43, 102);
+  text-shadow: 2px 2px 2px whitesmoke;
+}
+#image-size{
+  height:100px;
+  width:100px;
+  filter:drop-shadow(6px 6px 7px rgb(96, 150, 211));
+  border-radius:45%;
+  margin-left:7%;
+}
+
+b{
+  font-size: 15pt;
+  text-shadow: 1px 1px 1px pink;
+  color:rgb(102, 43, 102);
+  text-decoration: underline;
+}
+fieldset{
+  margin-top:-5%;
+}
+

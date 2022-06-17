@@ -1,0 +1,30 @@
+#footer {
+    padding: 5%;
+    background: #ddd;
+    margin-top: 20px;
+    justify-content: right;
+  }
+  #gitty{
+    margin-top:7px;
+    float:right;
+    margin-left: 30%;
+    height:75px;
+    width:75px;
+  }
+  #twitty{
+    margin-top:7px;
+    margin-left: 3%;
+    height:75px;
+    width:75px;
+  }
+  #linky{
+    margin-top:7px;
+    margin-left:3%;
+    height:75px;
+    width:75px;
+  }
+  #contact-info{
+    margin-top:1%;
+    margin-left: 1%;
+    margin-right:25%;
+  }

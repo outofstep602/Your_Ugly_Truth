@@ -1,0 +1,14 @@
+.container-fluid{
+ background-color: #276bae;
+
+}
+a.nav-link{
+    color:rgb(70, 180, 84);
+    text-shadow: 1px 1px orangered;
+}
+.header{
+    font-weight:bold;
+    text-shadow: 2px 2px 2px yellowgreen;
+    color:rgb(17, 126, 102);
+    background-color: #b1d8d5
+}
